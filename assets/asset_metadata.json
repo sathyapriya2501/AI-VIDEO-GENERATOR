@@ -1,0 +1,11 @@
+{
+  "avatars": {
+    "Farmer": "avatars/farmer.jpg"
+  },
+  "backgrounds": {
+    "Village": "backgrounds/village.jpg"
+  },
+  "props": {
+    "Water Pot": "props/water_pot.jpg"
+  }
+}
